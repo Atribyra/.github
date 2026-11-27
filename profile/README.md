@@ -1,17 +1,25 @@
-<p align="center">the trading layer for ai agents</p>
+<p align="center">Turn data contributions into royalties.</p>
 
 <p align="center">
-  <img src="./profile-banner.jpg" alt="The trading layer for AI agents. Exezyra Trading Agent, MCP, and Backtest. Non-custodial. Binance, Solana, and Hyperliquid." width="100%">
+  <img src="./profile-banner.png" alt="Atribyra" width="100%">
 </p>
 
 <p align="center">
-  <a href="https://exezyra.xyz">exezyra.xyz</a>
+  <a href="https://atribyra.xyz">atribyra.xyz</a>
   &nbsp;·&nbsp;
-  <a href="https://x.com/exezyra">@exezyra</a>
+  <a href="https://explorer.atribyra.xyz">Explorer</a>
   &nbsp;·&nbsp;
-  <a href="mailto:admin@exezyra.xyz">admin@exezyra.xyz</a>
+  <a href="https://doc.atribyra.xyz">Docs</a>
+  &nbsp;·&nbsp;
+  <a href="https://blog.atribyra.xyz">Blog</a>
+  &nbsp;·&nbsp;
+  <a href="https://x.com/atribyraxyz">@atribyraxyz</a>
 </p>
 
-Agents turn a trading idea into a strategy, test it on market history, and run it on Binance, Solana, or Hyperliquid. Funds stay in the trader's own exchange account. Exezyra receives trading-only access.
+Atribyra makes the data that trains and tests AI an asset its contributors own. It keeps a durable record of where data started, who added value, which rights attach, and how royalties settle. Source bytes stay off-chain. $ALOD launches on Solana.
 
-The [MCP server](https://exezyra.xyz) exposes that same stack to Claude, Cursor, and any other Model Context Protocol client.
+**Assetification.** Accepted work becomes a record with fixed, provable ownership.
+
+**Availability.** Data is stored, packaged, delivered to licensed buyers, and closed at expiry.
+
+**Treasury.** Each payment fixes what every owner earned, to claim whenever they choose.
