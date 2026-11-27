@@ -1,7 +1,7 @@
 <p align="center">Turn data contributions into royalties.</p>
 
 <p align="center">
-  <img src="./profile-banner.png" alt="Atribyra" width="100%">
+  <img width="2172" height="724" alt="twitter-banner" src="https://github.com/user-attachments/assets/7fac44a9-c752-4bbf-8062-b6f83c0530b5" />
 </p>
 
 <p align="center">
